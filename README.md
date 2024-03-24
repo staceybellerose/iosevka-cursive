@@ -1,6 +1,6 @@
 # Custom Iosevka "Cursive" Font
 
-Follow the Iosevka [Custom Build Instructions](https://github.com/be5invis/Iosevka/blob/main/doc/custom-build.md) with this [private-build-plans.toml]() file to generate the initial fonts. The Normal and Bold variants are used as-built. The Italic and Bold-Italic fonts are customized, as described below.
+Follow the Iosevka [Custom Build Instructions](https://github.com/be5invis/Iosevka/blob/main/doc/custom-build.md) with this [private-build-plans.toml](https://github.com/staceybellerose/iosevka-cursive/blob/main/private-build-plans.toml) file to generate the initial fonts. The Normal and Bold variants are used as-built. The Italic and Bold-Italic fonts are customized, as described below.
 
 ![](images/italic-preview.png)
 
