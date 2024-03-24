@@ -2,6 +2,10 @@
 
 Follow the Iosevka [Custom Build Instructions](https://github.com/be5invis/Iosevka/blob/main/doc/custom-build.md) with this [private-build-plans.toml]() file to generate the initial fonts. The Normal and Bold variants are used as-built. The Italic and Bold-Italic fonts are customized, as described below.
 
+![](images/italic-preview.png)
+
+![](images/bold-italic-preview.png)
+
 ## Customizations using FontForge
 
 After the fonts were built, the following changes were made using FontForge:
@@ -42,3 +46,9 @@ After the Cascadia Code glyphs were copied into corresponding Iosevka glyph, the
 	- The 5 upstroke points, including the top left point, but not its corresponding "inside" point, were selected, with the top left being the last picked.
 	- A transformation was applied, with the origin `Last Press` (the top left node): rotate 10° Withershins (_sic_).
 	- This brought the upstroke closer to the body of the letter, making it blend better with tailed letters before it.
+
+## Character Maps
+
+![Italic characters](images/italic-characters.png)
+
+![BoldItalic characters](images/bold-italic-characters.png)
